@@ -2,8 +2,9 @@
 	"reports": {
 		"TgJHPgV4": {
 			"id": "TgJHPgV4",
+			"desc": "iTrack2.apk on Trace #1",
 			"apk": "iTrack2.apk",
-			"trace": "Trace 1",
+			"trace": "Trace #1 - Outdoor, 5 mins stationary",
 			"tasks": {
 				"-KE6eUPVtch_F-K8JuMD": {
 					"status": "Finished",
@@ -36,8 +37,9 @@
 		},
 		"IY7Da7zu": {
 			"id": "IY7Da7zu",
+			"desc": "iTrack2.apk on Trace #2",
 			"apk": "iTrack2.apk",
-			"trace": "Trace 2",
+			"trace": "Trace #2 - Outdoor, 5 mins walk",
 			"tasks": {
 				"-KE6eUPVtch_F-K8JuME": {
 					"status": "Finished",
@@ -70,8 +72,9 @@
 		},
 		"tdgxLsi0": {
 			"id": "tdgxLsi0",
+			"desc": "iTrack2.apk on Trace #3",
 			"apk": "iTrack2.apk",
-			"trace": "Trace 3",
+			"trace": "Trace #3 - Outdoor, 3 mins walk, 2 mins stationary",
 			"tasks": {
 				"-KE6eUPVtch_F-K8JuMF": {
 					"status": "Finished",
