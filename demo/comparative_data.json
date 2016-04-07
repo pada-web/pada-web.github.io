@@ -1,11 +1,11 @@
 {
-	"reports": [
-		{
+	"reports": {
+		"TgJHPgV4": {
 			"id": "TgJHPgV4",
 			"apk": "iTrack2.apk",
 			"trace": "Trace 1",
-			"tasks": [
-				{
+			"tasks": {
+				"-KE6eUPVtch_F-K8JuMD": {
 					"status": "Finished",
 					"setting": "ALARM_INTERVAL = 10000, ACCEL = FASTEST",
 					"data": {
@@ -13,15 +13,33 @@
 						"alarmTime": 60.4,
 						"gpsTime": 18.5
 					}
+				},
+				"-KE7PY8QmSunrh2ydHaz": {
+					"status": "Finished",
+					"setting": "ALARM_INTERVAL = 20000, ACCEL = FASTEST",
+					"data": {
+						"avgPower": 162.09,
+						"alarmTime": 60.4,
+						"gpsTime": 18.5
+					}
+				},
+				"-KE7PbL1uSo33AiiQ7Z_": {
+					"status": "Finished",
+					"setting": "ALARM_INTERVAL = 5000, ACCEL = FASTEST",
+					"data": {
+						"avgPower": 162.09,
+						"alarmTime": 60.4,
+						"gpsTime": 18.5
+					}
 				}
-			]
+			}
 		},
-		{
+		"IY7Da7zu": {
 			"id": "IY7Da7zu",
 			"apk": "iTrack2.apk",
 			"trace": "Trace 2",
-			"tasks": [
-				{
+			"tasks": {
+				"-KE6eUPVtch_F-K8JuME": {
 					"status": "Finished",
 					"setting": "ALARM_INTERVAL = 10000, ACCEL = FASTEST",
 					"data": {
@@ -29,15 +47,33 @@
 						"alarmTime": 60.4,
 						"gpsTime": 18.5
 					}
+				},
+				"-KE7PY8QmSunrh2ydHb-": {
+					"status": "Finished",
+					"setting": "ALARM_INTERVAL = 20000, ACCEL = FASTEST",
+					"data": {
+						"avgPower": 162.09,
+						"alarmTime": 60.4,
+						"gpsTime": 18.5
+					}
+				},
+				"-KE7PbL1uSo33AiiQ7Za": {
+					"status": "Finished",
+					"setting": "ALARM_INTERVAL = 5000, ACCEL = FASTEST",
+					"data": {
+						"avgPower": 162.09,
+						"alarmTime": 60.4,
+						"gpsTime": 18.5
+					}
 				}
-			]
+			}
 		},
-		{
+		"tdgxLsi0": {
 			"id": "tdgxLsi0",
 			"apk": "iTrack2.apk",
 			"trace": "Trace 3",
-			"tasks": [
-				{
+			"tasks": {
+				"-KE6eUPVtch_F-K8JuMF": {
 					"status": "Finished",
 					"setting": "ALARM_INTERVAL = 10000, ACCEL = FASTEST",
 					"data": {
@@ -45,8 +81,26 @@
 						"alarmTime": 60.4,
 						"gpsTime": 18.5
 					}
+				},
+				"-KE7PY8QmSunrh2ydHb0": {
+					"status": "Finished",
+					"setting": "ALARM_INTERVAL = 20000, ACCEL = FASTEST",
+					"data": {
+						"avgPower": 162.09,
+						"alarmTime": 60.4,
+						"gpsTime": 18.5
+					}
+				},
+				"-KE7PbL1uSo33AiiQ7Zb": {
+					"status": "Finished",
+					"setting": "ALARM_INTERVAL = 5000, ACCEL = FASTEST",
+					"data": {
+						"avgPower": 162.09,
+						"alarmTime": 60.4,
+						"gpsTime": 18.5
+					}
 				}
-			]
+			}
 		}
-	]
+	}
 }
