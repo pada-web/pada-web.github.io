@@ -1,0 +1,52 @@
+{
+	"reports": [
+		{
+			"id": "TgJHPgV4",
+			"apk": "iTrack2.apk",
+			"trace": "Trace 1",
+			"tasks": [
+				{
+					"status": "Finished",
+					"setting": "ALARM_INTERVAL = 10000, ACCEL = FASTEST",
+					"data": {
+						"avgPower": 162.09,
+						"alarmTime": 60.4,
+						"gpsTime": 18.5
+					}
+				}
+			]
+		},
+		{
+			"id": "IY7Da7zu",
+			"apk": "iTrack2.apk",
+			"trace": "Trace 2",
+			"tasks": [
+				{
+					"status": "Finished",
+					"setting": "ALARM_INTERVAL = 10000, ACCEL = FASTEST",
+					"data": {
+						"avgPower": 162.09,
+						"alarmTime": 60.4,
+						"gpsTime": 18.5
+					}
+				}
+			]
+		},
+		{
+			"id": "tdgxLsi0",
+			"apk": "iTrack2.apk",
+			"trace": "Trace 3",
+			"tasks": [
+				{
+					"status": "Finished",
+					"setting": "ALARM_INTERVAL = 10000, ACCEL = FASTEST",
+					"data": {
+						"avgPower": 162.09,
+						"alarmTime": 60.4,
+						"gpsTime": 18.5
+					}
+				}
+			]
+		}
+	]
+}

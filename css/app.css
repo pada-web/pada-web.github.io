@@ -1,0 +1,82 @@
+html {
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  font-family: 'lato', sans-serif;
+  font-size: 13px;
+  line-height: 21px;
+}
+
+.vis-timeline {
+  border: 1px solid #52616B;
+  font-size: 12pt;
+  background: #F0F5F9;
+  color: #1E2022;
+  margin-bottom: 2px;
+}
+
+.vis-item {
+  border-width: 0px;
+  background-color: #C9D6DF;
+  font-size: 12pt;
+  color: #ffffff;
+}
+
+.vis-item,
+.vis-item.vis-line {
+  border-width: 1px;
+}
+
+.vis-time-axis .vis-grid.vis-minor {
+  border-width: 1px;
+  border-color: #52616B;
+}
+
+.vis-time-axis .vis-grid.vis-major {
+  border-width: 1px;
+  border-color: #52616B;
+}
+
+.vis-panel.vis-left {
+  min-width: 150px;
+  max-width: 150px;
+}
+
+.dygraph-axis-label.dygraph-axis-label-x {
+  margin-left: 33px;
+}
+
+.form-signin {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+  margin-bottom: 10px;
+}
+.form-signin .checkbox {
+  font-weight: normal;
+}
+.form-signin .form-control {
+  position: relative;
+  height: auto;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
